@@ -12,4 +12,5 @@ git push origin master
 
 or run push from your intelliJ which will push to origin automatically
 
-This is an edit from a different source. try to pull this down fom ItelliJ
+To get any updates remotely call pull from ItelliJ's git menu and updates will be applied
+

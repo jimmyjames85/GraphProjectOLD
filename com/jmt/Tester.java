@@ -72,7 +72,6 @@ public class Tester
 
     public static ArrayList<String> inputStringToParsableArray(String str)
     {
-
         ArrayList<String> ret = new ArrayList<String>();
 
         int left = 0;
@@ -88,7 +87,6 @@ public class Tester
             if (right == -1)
                 right = str.length();
         }
-
         return ret;
     }
 
