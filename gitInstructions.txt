@@ -1,0 +1,14 @@
+Download or import from github.com
+
+Then in the src directory (which is the root of this .git directory) run:
+
+git remote add origin https://github.com/jimmyjames85/test.git
+
+This maps 'https://gith...' to origin
+
+After any commits you can manually run
+
+git push origin master
+
+or run push from your intelliJ which will push to origin automatically
+
